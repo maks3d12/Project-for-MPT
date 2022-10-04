@@ -1,0 +1,15 @@
+C:\Users\Петрушка\source\repos\kaka\kaka\bin\Debug\net6.0\kaka.exe
+C:\Users\Петрушка\source\repos\kaka\kaka\bin\Debug\net6.0\kaka.deps.json
+C:\Users\Петрушка\source\repos\kaka\kaka\bin\Debug\net6.0\kaka.runtimeconfig.json
+C:\Users\Петрушка\source\repos\kaka\kaka\bin\Debug\net6.0\kaka.dll
+C:\Users\Петрушка\source\repos\kaka\kaka\bin\Debug\net6.0\kaka.pdb
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.csproj.AssemblyReference.cache
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.AssemblyInfoInputs.cache
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.AssemblyInfo.cs
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.csproj.CoreCompileInputs.cache
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.dll
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\refint\kaka.dll
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.pdb
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\kaka.genruntimeconfig.cache
+C:\Users\Петрушка\source\repos\kaka\kaka\obj\Debug\net6.0\ref\kaka.dll
